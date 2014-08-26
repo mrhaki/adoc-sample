@@ -1,0 +1,10 @@
+= Asciidoc on GitHub
+
+Sample document for {blogpost}[Aweseome Asciidoc blog post].
+
+ifdef::env-github[]
+This line is only visible if the document is on GitHub.
+GitHub is using Asciidoctor {asciidoctor-version}.
+endif::env-github[]
+
+ifndef::env-github[This line is visible if not rendered on GitHub.]
