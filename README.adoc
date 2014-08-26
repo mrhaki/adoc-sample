@@ -1,3 +1,5 @@
+:blogpost: http://mrhaki.blogspot.com/2014/08/awesome-asciidoc-check-if-document-is.html
+
 = Asciidoc on GitHub
 
 Sample document for {blogpost}[Aweseome Asciidoc blog post].
